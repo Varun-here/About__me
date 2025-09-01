@@ -5,7 +5,7 @@
 
 - How to reach me **varunsambath02@outlook.com**
 
-- Know about my experiences [https://varun-here.github.io/Resume/](https://varun-here.github.io/Resume/)
+- Know about my experiences [https://varun-here.github.io/Resume/](https://varun-here.github.io/Resume/Varun_Kumar_Resume(portfolio).pdf)
 
 - Fun fact **💡🚗🛣️🚵🏻‍♂️🏠**
 
