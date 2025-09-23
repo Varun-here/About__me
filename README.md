@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Varun Kumar</h1>
 <h3 align="center">I am a passionate and driven graduate student in Computer Science at the University of Texas at Arlington. With a strong foundation in software development, artificial intelligence, and data science, I strive to build impactful and intelligent systems.</h3>
 
-- All of my projects are available at [https://my-portfolio-bjqm.vercel.app/](https://my-portfolio-bjqm.vercel.app/)
+- Some of my deployments are available at [https://my-portfolio-bjqm.vercel.app/](https://my-portfolio-bjqm.vercel.app/)
 
 - How to reach me **varunsambath02@outlook.com**
 
